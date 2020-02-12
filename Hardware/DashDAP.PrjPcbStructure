@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=DashDAP.SchDoc
+Record=SheetSymbol|SourceDocument=DashDAP.SchDoc|Designator=U_DAP_C8T6|SchDesignator=U_DAP_C8T6|FileName=DAP_C8T6.SchDoc|SymbolType=Normal|RawFileName=DAP_C8T6.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=DashDAP.SchDoc|Designator=U_XM5062_33|SchDesignator=U_XM5062_33|FileName=XM5062_33.SchDoc|SymbolType=Normal|RawFileName=XM5062_33.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

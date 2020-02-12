@@ -1,0 +1,23 @@
+[DesignatorManager]
+LogicalDesignator0=C1
+LogicalPartID0=1
+DocumentName0=DAP_C8T6.SchDoc
+ChannelName0=DAP_C8T6
+UniqueID0=\IFAERGOZ
+PhysicalDesignator0=C1
+PhysicalDesignatorLocked0=0
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+DocumentName0=Summary.SchDoc
+UniqueIDPath0=
+SheetNumber0=1
+DocumentName1=DAP_C8T6.SchDoc
+UniqueIDPath1=
+SheetNumber1=2
+DocumentName2=XM5062_33.SchDoc
+UniqueIDPath2=
+SheetNumber2=3
+
+

@@ -1,0 +1,485 @@
+Added Component: Designator=3.3(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1_DAP_C8T6(CAP-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "π©”¶…Ã¡¥Ω”"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_53938.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C52923"; VariantName = "[No Variations]"
+Added Component: Designator=C1_Œ»—π(CAP-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "π©”¶…Ã¡¥Ω”"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_53938.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C52923"; VariantName = "[No Variations]"
+Added Component: Designator=C2_DAP_C8T6(CAP-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "π©”¶…Ã¡¥Ω”"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_53938.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C52923"; VariantName = "[No Variations]"
+Added Component: Designator=C2_Œ»—π(CAP-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "π©”¶…Ã¡¥Ω”"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_53938.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C52923"; VariantName = "[No Variations]"
+Added Component: Designator=C3_DAP_C8T6(CAP-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "π©”¶…Ã¡¥Ω”"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_53938.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C52923"; VariantName = "[No Variations]"
+Added Component: Designator=C3_Œ»—π(CAP-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "π©”¶…Ã¡¥Ω”"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_53938.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C52923"; VariantName = "[No Variations]"
+Added Component: Designator=C4_DAP_C8T6(CAP-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "π©”¶…Ã¡¥Ω”"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_53938.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C52923"; VariantName = "[No Variations]"
+Added Component: Designator=C4_Œ»—π(CAP-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "π©”¶…Ã¡¥Ω”"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_53938.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C52923"; VariantName = "[No Variations]"
+Added Component: Designator=C5_DAP_C8T6(CAP-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "π©”¶…Ã¡¥Ω”"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_53938.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C52923"; VariantName = "[No Variations]"
+Added Component: Designator=C5_Œ»—π(CAP-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "π©”¶…Ã¡¥Ω”"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_53938.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C52923"; VariantName = "[No Variations]"
+Added Component: Designator=C6_DAP_C8T6(CAP-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "π©”¶…Ã¡¥Ω”"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_53938.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C52923"; VariantName = "[No Variations]"
+Added Component: Designator=C6_Œ»—π(CAP-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "π©”¶…Ã¡¥Ω”"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_53938.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C52923"; VariantName = "[No Variations]"
+Added Component: Designator=C(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1_DAP_C8T6(LED-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "π©”¶…Ã¡¥Ω”"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_2663.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C2290"; VariantName = "[No Variations]"
+Added Component: Designator=D1_Œ»—π(LED-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "π©”¶…Ã¡¥Ω”"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_2663.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C2290"; VariantName = "[No Variations]"
+Added Component: Designator=D(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=G(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=IC1_DAP_C8T6(SOT-23-5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FSR2M%7F1116%7Fpdf%7FEnglish%7FENG_DS_SR2M_1116.pdf%7F1-1393258-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1-1393258-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC1_Œ»—π(SOT-23-5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FSR2M%7F1116%7Fpdf%7FEnglish%7FENG_DS_SR2M_1116.pdf%7F1-1393258-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1-1393258-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L1_DAP_C8T6(XAL6060-103MEB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "π©”¶…Ã¡¥Ω”"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_33003.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C32041"; VariantName = "[No Variations]"
+Added Component: Designator=L1_Œ»—π(XAL6060-103MEB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "π©”¶…Ã¡¥Ω”"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_33003.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C32041"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR2X4_2.54_180H)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q1(USB-A-male)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1_DAP_C8T6(R-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17798"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Œ»—π(R-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17798"; VariantName = "[No Variations]"
+Added Component: Designator=R2_DAP_C8T6(R-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17798"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Œ»—π(R-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17798"; VariantName = "[No Variations]"
+Added Component: Designator=R3_DAP_C8T6(R-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17798"; VariantName = "[No Variations]"
+Added Component: Designator=R3_Œ»—π(R-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17798"; VariantName = "[No Variations]"
+Added Component: Designator=R4_DAP_C8T6(R-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17798"; VariantName = "[No Variations]"
+Added Component: Designator=R4_Œ»—π(R-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17798"; VariantName = "[No Variations]"
+Added Component: Designator=R5_DAP_C8T6(R-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17798"; VariantName = "[No Variations]"
+Added Component: Designator=R5_Œ»—π(R-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17798"; VariantName = "[No Variations]"
+Added Component: Designator=R6_DAP_C8T6(R-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17798"; VariantName = "[No Variations]"
+Added Component: Designator=R6_Œ»—π(R-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17798"; VariantName = "[No Variations]"
+Added Component: Designator=R7_DAP_C8T6(R-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17798"; VariantName = "[No Variations]"
+Added Component: Designator=R7_Œ»—π(R-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17798"; VariantName = "[No Variations]"
+Added Component: Designator=R8_DAP_C8T6(R-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17798"; VariantName = "[No Variations]"
+Added Component: Designator=R8_Œ»—π(R-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17798"; VariantName = "[No Variations]"
+Added Component: Designator=R9_DAP_C8T6(R-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17798"; VariantName = "[No Variations]"
+Added Component: Designator=R9_Œ»—π(R-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17798"; VariantName = "[No Variations]"
+Added Component: Designator=R10_DAP_C8T6(R-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17798"; VariantName = "[No Variations]"
+Added Component: Designator=R10_Œ»—π(R-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17798"; VariantName = "[No Variations]"
+Added Component: Designator=U1_DAP_C8T6(LQFP_48)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1_Œ»—π(LQFP_48)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X1_DAP_C8T6(CSTCE_G(A)¥ÂÃÔæß’Ò)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X1_Œ»—π(CSTCE_G(A)¥ÂÃÔæß’Ò)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=DAP_3.3V_IN_DAP_C8T6 Pin=3.3-1
+Added Pin To Net: NetName=DAP_3.3V_IN_DAP_C8T6 Pin=C2_Œ»—π-2
+Added Pin To Net: NetName=DAP_3.3V_IN_DAP_C8T6 Pin=C3_DAP_C8T6-1
+Added Pin To Net: NetName=DAP_3.3V_IN_DAP_C8T6 Pin=C4_DAP_C8T6-1
+Added Pin To Net: NetName=DAP_3.3V_IN_DAP_C8T6 Pin=C6_DAP_C8T6-1
+Added Pin To Net: NetName=DAP_3.3V_IN_DAP_C8T6 Pin=IC1_Œ»—π-5
+Added Pin To Net: NetName=DAP_3.3V_IN_DAP_C8T6 Pin=L1_Œ»—π-2
+Added Pin To Net: NetName=DAP_3.3V_IN_DAP_C8T6 Pin=P1-8
+Added Pin To Net: NetName=DAP_3.3V_IN_DAP_C8T6 Pin=R1_DAP_C8T6-2
+Added Pin To Net: NetName=DAP_3.3V_IN_DAP_C8T6 Pin=R7_DAP_C8T6-1
+Added Pin To Net: NetName=DAP_3.3V_IN_DAP_C8T6 Pin=R8_DAP_C8T6-1
+Added Pin To Net: NetName=DAP_3.3V_IN_DAP_C8T6 Pin=R9_DAP_C8T6-1
+Added Pin To Net: NetName=DAP_3.3V_IN_DAP_C8T6 Pin=R10_DAP_C8T6-2
+Added Pin To Net: NetName=DAP_3.3V_IN_DAP_C8T6 Pin=U1_DAP_C8T6-1
+Added Pin To Net: NetName=DAP_3.3V_IN_DAP_C8T6 Pin=U1_DAP_C8T6-9
+Added Pin To Net: NetName=DAP_3.3V_IN_DAP_C8T6 Pin=U1_DAP_C8T6-24
+Added Pin To Net: NetName=DAP_3.3V_IN_DAP_C8T6 Pin=U1_DAP_C8T6-36
+Added Pin To Net: NetName=DAP_3.3V_IN_DAP_C8T6 Pin=U1_DAP_C8T6-48
+Added Net: Name=DAP_3.3V_IN_DAP_C8T6
+Added Pin To Net: NetName=DAP_3.3V_IN_Œ»—π Pin=C3_Œ»—π-1
+Added Pin To Net: NetName=DAP_3.3V_IN_Œ»—π Pin=C4_Œ»—π-1
+Added Pin To Net: NetName=DAP_3.3V_IN_Œ»—π Pin=C6_Œ»—π-1
+Added Pin To Net: NetName=DAP_3.3V_IN_Œ»—π Pin=R1_Œ»—π-2
+Added Pin To Net: NetName=DAP_3.3V_IN_Œ»—π Pin=R7_Œ»—π-1
+Added Pin To Net: NetName=DAP_3.3V_IN_Œ»—π Pin=R8_Œ»—π-1
+Added Pin To Net: NetName=DAP_3.3V_IN_Œ»—π Pin=R9_Œ»—π-1
+Added Pin To Net: NetName=DAP_3.3V_IN_Œ»—π Pin=R10_Œ»—π-2
+Added Pin To Net: NetName=DAP_3.3V_IN_Œ»—π Pin=U1_Œ»—π-1
+Added Pin To Net: NetName=DAP_3.3V_IN_Œ»—π Pin=U1_Œ»—π-9
+Added Pin To Net: NetName=DAP_3.3V_IN_Œ»—π Pin=U1_Œ»—π-24
+Added Pin To Net: NetName=DAP_3.3V_IN_Œ»—π Pin=U1_Œ»—π-36
+Added Pin To Net: NetName=DAP_3.3V_IN_Œ»—π Pin=U1_Œ»—π-48
+Added Net: Name=DAP_3.3V_IN_Œ»—π
+Added Pin To Net: NetName=DAP_5V_IN_DAP_C8T6 Pin=C1_Œ»—π-2
+Added Pin To Net: NetName=DAP_5V_IN_DAP_C8T6 Pin=IC1_Œ»—π-1
+Added Pin To Net: NetName=DAP_5V_IN_DAP_C8T6 Pin=IC1_Œ»—π-4
+Added Pin To Net: NetName=DAP_5V_IN_DAP_C8T6 Pin=P1-7
+Added Pin To Net: NetName=DAP_5V_IN_DAP_C8T6 Pin=Q1-1
+Added Net: Name=DAP_5V_IN_DAP_C8T6
+Added Pin To Net: NetName=DAP_RX_DAP_C8T6 Pin=P1-4
+Added Pin To Net: NetName=DAP_RX_DAP_C8T6 Pin=U1_DAP_C8T6-13
+Added Net: Name=DAP_RX_DAP_C8T6
+Added Pin To Net: NetName=DAP_RX_Œ»—π Pin=U1_Œ»—π-13
+Added Net: Name=DAP_RX_Œ»—π
+Added Pin To Net: NetName=DAP_SWCLK_DAP_C8T6 Pin=P1-1
+Added Pin To Net: NetName=DAP_SWCLK_DAP_C8T6 Pin=R5_DAP_C8T6-2
+Added Net: Name=DAP_SWCLK_DAP_C8T6
+Added Pin To Net: NetName=DAP_SWCLK_SELF_DAP_C8T6 Pin=C-1
+Added Pin To Net: NetName=DAP_SWCLK_SELF_DAP_C8T6 Pin=U1_DAP_C8T6-37
+Added Net: Name=DAP_SWCLK_SELF_DAP_C8T6
+Added Pin To Net: NetName=DAP_SWCLK_SELF_Œ»—π Pin=U1_Œ»—π-37
+Added Net: Name=DAP_SWCLK_SELF_Œ»—π
+Added Pin To Net: NetName=DAP_SWCLK_Œ»—π Pin=R5_Œ»—π-2
+Added Net: Name=DAP_SWCLK_Œ»—π
+Added Pin To Net: NetName=DAP_SWDIO_DAP_C8T6 Pin=P1-3
+Added Pin To Net: NetName=DAP_SWDIO_DAP_C8T6 Pin=R6_DAP_C8T6-2
+Added Net: Name=DAP_SWDIO_DAP_C8T6
+Added Pin To Net: NetName=DAP_SWDIO_SELF_DAP_C8T6 Pin=D-1
+Added Pin To Net: NetName=DAP_SWDIO_SELF_DAP_C8T6 Pin=U1_DAP_C8T6-34
+Added Net: Name=DAP_SWDIO_SELF_DAP_C8T6
+Added Pin To Net: NetName=DAP_SWDIO_SELF_Œ»—π Pin=U1_Œ»—π-34
+Added Net: Name=DAP_SWDIO_SELF_Œ»—π
+Added Pin To Net: NetName=DAP_SWDIO_Œ»—π Pin=R6_Œ»—π-2
+Added Net: Name=DAP_SWDIO_Œ»—π
+Added Pin To Net: NetName=DAP_TX_DAP_C8T6 Pin=P1-2
+Added Pin To Net: NetName=DAP_TX_DAP_C8T6 Pin=U1_DAP_C8T6-12
+Added Net: Name=DAP_TX_DAP_C8T6
+Added Pin To Net: NetName=DAP_TX_Œ»—π Pin=U1_Œ»—π-12
+Added Net: Name=DAP_TX_Œ»—π
+Added Pin To Net: NetName=DAP_USB_DM_DAP_C8T6 Pin=Q1-2
+Added Pin To Net: NetName=DAP_USB_DM_DAP_C8T6 Pin=R3_DAP_C8T6-1
+Added Net: Name=DAP_USB_DM_DAP_C8T6
+Added Pin To Net: NetName=DAP_USB_DM_Œ»—π Pin=R3_Œ»—π-1
+Added Net: Name=DAP_USB_DM_Œ»—π
+Added Pin To Net: NetName=DAP_USB_DP_DAP_C8T6 Pin=Q1-3
+Added Pin To Net: NetName=DAP_USB_DP_DAP_C8T6 Pin=R4_DAP_C8T6-1
+Added Pin To Net: NetName=DAP_USB_DP_DAP_C8T6 Pin=R7_DAP_C8T6-2
+Added Net: Name=DAP_USB_DP_DAP_C8T6
+Added Pin To Net: NetName=DAP_USB_DP_Œ»—π Pin=R4_Œ»—π-1
+Added Pin To Net: NetName=DAP_USB_DP_Œ»—π Pin=R7_Œ»—π-2
+Added Net: Name=DAP_USB_DP_Œ»—π
+Added Pin To Net: NetName=GND Pin=C1_DAP_C8T6-1
+Added Pin To Net: NetName=GND Pin=C1_Œ»—π-1
+Added Pin To Net: NetName=GND Pin=C2_DAP_C8T6-1
+Added Pin To Net: NetName=GND Pin=C2_Œ»—π-1
+Added Pin To Net: NetName=GND Pin=C3_DAP_C8T6-2
+Added Pin To Net: NetName=GND Pin=C3_Œ»—π-2
+Added Pin To Net: NetName=GND Pin=C4_DAP_C8T6-2
+Added Pin To Net: NetName=GND Pin=C4_Œ»—π-2
+Added Pin To Net: NetName=GND Pin=C5_DAP_C8T6-1
+Added Pin To Net: NetName=GND Pin=C5_Œ»—π-1
+Added Pin To Net: NetName=GND Pin=C6_DAP_C8T6-2
+Added Pin To Net: NetName=GND Pin=C6_Œ»—π-2
+Added Pin To Net: NetName=GND Pin=G-1
+Added Pin To Net: NetName=GND Pin=IC1_DAP_C8T6-2
+Added Pin To Net: NetName=GND Pin=IC1_Œ»—π-2
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=GND Pin=Q1-4
+Added Pin To Net: NetName=GND Pin=U1_DAP_C8T6-8
+Added Pin To Net: NetName=GND Pin=U1_DAP_C8T6-23
+Added Pin To Net: NetName=GND Pin=U1_DAP_C8T6-35
+Added Pin To Net: NetName=GND Pin=U1_DAP_C8T6-44
+Added Pin To Net: NetName=GND Pin=U1_DAP_C8T6-47
+Added Pin To Net: NetName=GND Pin=U1_Œ»—π-8
+Added Pin To Net: NetName=GND Pin=U1_Œ»—π-23
+Added Pin To Net: NetName=GND Pin=U1_Œ»—π-35
+Added Pin To Net: NetName=GND Pin=U1_Œ»—π-44
+Added Pin To Net: NetName=GND Pin=U1_Œ»—π-47
+Added Pin To Net: NetName=GND Pin=X1_DAP_C8T6-2
+Added Pin To Net: NetName=GND Pin=X1_Œ»—π-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC5_DAP_C8T6_2 Pin=C5_DAP_C8T6-2
+Added Pin To Net: NetName=NetC5_DAP_C8T6_2 Pin=R10_DAP_C8T6-1
+Added Pin To Net: NetName=NetC5_DAP_C8T6_2 Pin=U1_DAP_C8T6-7
+Added Net: Name=NetC5_DAP_C8T6_2
+Added Pin To Net: NetName=NetC5_Œ»—π_2 Pin=C5_Œ»—π-2
+Added Pin To Net: NetName=NetC5_Œ»—π_2 Pin=R10_Œ»—π-1
+Added Pin To Net: NetName=NetC5_Œ»—π_2 Pin=U1_Œ»—π-7
+Added Net: Name=NetC5_Œ»—π_2
+Added Pin To Net: NetName=NetD1_DAP_C8T6_A Pin=R2_DAP_C8T6-1
+Added Net: Name=NetD1_DAP_C8T6_A
+Added Pin To Net: NetName=NetD1_Œ»—π_A Pin=R2_Œ»—π-1
+Added Net: Name=NetD1_Œ»—π_A
+Added Pin To Net: NetName=NetIC1_DAP_C8T6_3 Pin=IC1_DAP_C8T6-3
+Added Pin To Net: NetName=NetIC1_DAP_C8T6_3 Pin=L1_DAP_C8T6-1
+Added Net: Name=NetIC1_DAP_C8T6_3
+Added Pin To Net: NetName=NetIC1_Œ»—π_3 Pin=IC1_Œ»—π-3
+Added Pin To Net: NetName=NetIC1_Œ»—π_3 Pin=L1_Œ»—π-1
+Added Net: Name=NetIC1_Œ»—π_3
+Added Pin To Net: NetName=NetR1_DAP_C8T6_1 Pin=R1_DAP_C8T6-1
+Added Pin To Net: NetName=NetR1_DAP_C8T6_1 Pin=U1_DAP_C8T6-18
+Added Net: Name=NetR1_DAP_C8T6_1
+Added Pin To Net: NetName=NetR1_Œ»—π_1 Pin=R1_Œ»—π-1
+Added Pin To Net: NetName=NetR1_Œ»—π_1 Pin=U1_Œ»—π-18
+Added Net: Name=NetR1_Œ»—π_1
+Added Pin To Net: NetName=NetR2_DAP_C8T6_2 Pin=R2_DAP_C8T6-2
+Added Pin To Net: NetName=NetR2_DAP_C8T6_2 Pin=U1_DAP_C8T6-30
+Added Net: Name=NetR2_DAP_C8T6_2
+Added Pin To Net: NetName=NetR2_Œ»—π_2 Pin=R2_Œ»—π-2
+Added Pin To Net: NetName=NetR2_Œ»—π_2 Pin=U1_Œ»—π-30
+Added Net: Name=NetR2_Œ»—π_2
+Added Pin To Net: NetName=NetR3_DAP_C8T6_2 Pin=R3_DAP_C8T6-2
+Added Pin To Net: NetName=NetR3_DAP_C8T6_2 Pin=U1_DAP_C8T6-32
+Added Net: Name=NetR3_DAP_C8T6_2
+Added Pin To Net: NetName=NetR3_Œ»—π_2 Pin=R3_Œ»—π-2
+Added Pin To Net: NetName=NetR3_Œ»—π_2 Pin=U1_Œ»—π-32
+Added Net: Name=NetR3_Œ»—π_2
+Added Pin To Net: NetName=NetR4_DAP_C8T6_2 Pin=R4_DAP_C8T6-2
+Added Pin To Net: NetName=NetR4_DAP_C8T6_2 Pin=U1_DAP_C8T6-33
+Added Net: Name=NetR4_DAP_C8T6_2
+Added Pin To Net: NetName=NetR4_Œ»—π_2 Pin=R4_Œ»—π-2
+Added Pin To Net: NetName=NetR4_Œ»—π_2 Pin=U1_Œ»—π-33
+Added Net: Name=NetR4_Œ»—π_2
+Added Pin To Net: NetName=NetR5_DAP_C8T6_1 Pin=R5_DAP_C8T6-1
+Added Pin To Net: NetName=NetR5_DAP_C8T6_1 Pin=R8_DAP_C8T6-2
+Added Pin To Net: NetName=NetR5_DAP_C8T6_1 Pin=U1_DAP_C8T6-26
+Added Net: Name=NetR5_DAP_C8T6_1
+Added Pin To Net: NetName=NetR5_Œ»—π_1 Pin=R5_Œ»—π-1
+Added Pin To Net: NetName=NetR5_Œ»—π_1 Pin=R8_Œ»—π-2
+Added Pin To Net: NetName=NetR5_Œ»—π_1 Pin=U1_Œ»—π-26
+Added Net: Name=NetR5_Œ»—π_1
+Added Pin To Net: NetName=NetR6_DAP_C8T6_1 Pin=R6_DAP_C8T6-1
+Added Pin To Net: NetName=NetR6_DAP_C8T6_1 Pin=R9_DAP_C8T6-2
+Added Pin To Net: NetName=NetR6_DAP_C8T6_1 Pin=U1_DAP_C8T6-27
+Added Net: Name=NetR6_DAP_C8T6_1
+Added Pin To Net: NetName=NetR6_Œ»—π_1 Pin=R6_Œ»—π-1
+Added Pin To Net: NetName=NetR6_Œ»—π_1 Pin=R9_Œ»—π-2
+Added Pin To Net: NetName=NetR6_Œ»—π_1 Pin=U1_Œ»—π-27
+Added Net: Name=NetR6_Œ»—π_1
+Added Pin To Net: NetName=NetU1_DAP_C8T6_5 Pin=U1_DAP_C8T6-5
+Added Pin To Net: NetName=NetU1_DAP_C8T6_5 Pin=X1_DAP_C8T6-1
+Added Net: Name=NetU1_DAP_C8T6_5
+Added Pin To Net: NetName=NetU1_DAP_C8T6_6 Pin=U1_DAP_C8T6-6
+Added Pin To Net: NetName=NetU1_DAP_C8T6_6 Pin=X1_DAP_C8T6-3
+Added Net: Name=NetU1_DAP_C8T6_6
+Added Pin To Net: NetName=NetU1_Œ»—π_5 Pin=U1_Œ»—π-5
+Added Pin To Net: NetName=NetU1_Œ»—π_5 Pin=X1_Œ»—π-1
+Added Net: Name=NetU1_Œ»—π_5
+Added Pin To Net: NetName=NetU1_Œ»—π_6 Pin=U1_Œ»—π-6
+Added Pin To Net: NetName=NetU1_Œ»—π_6 Pin=X1_Œ»—π-3
+Added Net: Name=NetU1_Œ»—π_6
+Added Pin To Net: NetName=XM5062_3.3V_OUT_DAP_C8T6 Pin=C2_DAP_C8T6-2
+Added Pin To Net: NetName=XM5062_3.3V_OUT_DAP_C8T6 Pin=IC1_DAP_C8T6-5
+Added Pin To Net: NetName=XM5062_3.3V_OUT_DAP_C8T6 Pin=L1_DAP_C8T6-2
+Added Net: Name=XM5062_3.3V_OUT_DAP_C8T6
+Added Pin To Net: NetName=XM5062_VCC_IN_DAP_C8T6 Pin=C1_DAP_C8T6-2
+Added Pin To Net: NetName=XM5062_VCC_IN_DAP_C8T6 Pin=IC1_DAP_C8T6-1
+Added Pin To Net: NetName=XM5062_VCC_IN_DAP_C8T6 Pin=IC1_DAP_C8T6-4
+Added Net: Name=XM5062_VCC_IN_DAP_C8T6
+Added Class: Name=DAP_C8T6
+Added Class: Name=Summary
+Added Class: Name=Œ»—π
+Added Class: Name=Modules
+Added Room: Name=DAP_C8T6
+Added Room: Name=Summary
+Added Room: Name=Œ»—π
