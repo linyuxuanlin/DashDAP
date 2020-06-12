@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=3.3V Pin=TP2-1
-Removed Member From Class: ClassName=DashDAP Member=TP2
-Added Room: Name=DashDAP
-Added Room: Name=U_DAP_C8T6
-Added Room: Name=U_XM5062_33
